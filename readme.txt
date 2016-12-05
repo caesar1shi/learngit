@@ -6,3 +6,5 @@ feature1
 4
 add message
 issue101
+stash
+stash 2
