@@ -6,3 +6,4 @@ feature1
 4
 add message
 stash
+stash 2
