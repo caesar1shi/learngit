@@ -2,4 +2,4 @@
 # -*- coding: utf-8 -*-
 print("中文")
 print("en")
-1
+print("master")
